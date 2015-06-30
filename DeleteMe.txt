@@ -5,4 +5,8 @@ dd
 ffff
 gg
 fff
+<<<<<<< HEAD
 gg
+=======
+qqq
+>>>>>>> fix20
